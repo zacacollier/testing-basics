@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getUsers works 1`] = `
+Array [
+  Object {
+    "id": Object {
+      "name": "",
+      "value": null,
+    },
+    "location": Object {
+      "city": "ansbach",
+      "postcode": 45655,
+      "state": "thüringen",
+      "street": "8039 schützenstraße",
+    },
+    "name": Object {
+      "first": "jenny",
+      "last": "hesse",
+      "title": "mrs",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/women/42.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "",
+      "value": null,
+    },
+    "location": Object {
+      "city": "upper hutt",
+      "postcode": 17950,
+      "state": "gisborne",
+      "street": "8680 ward street",
+    },
+    "name": Object {
+      "first": "zachary",
+      "last": "taylor",
+      "title": "mr",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/men/4.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "CPR",
+      "value": "850973-1344",
+    },
+    "location": Object {
+      "city": "ryslinge",
+      "postcode": 79360,
+      "state": "sjælland",
+      "street": "2259 åvej",
+    },
+    "name": Object {
+      "first": "kasper",
+      "last": "mortensen",
+      "title": "mr",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/men/46.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "",
+      "value": null,
+    },
+    "location": Object {
+      "city": "rize",
+      "postcode": 27116,
+      "state": "konya",
+      "street": "3193 anafartalar cd",
+    },
+    "name": Object {
+      "first": "latife",
+      "last": "yıldızoğlu",
+      "title": "mrs",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/women/83.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "NINO",
+      "value": "WJ 13 69 86 A",
+    },
+    "location": Object {
+      "city": "bradford",
+      "postcode": "KF48 7BL",
+      "state": "oxfordshire",
+      "street": "6939 church lane",
+    },
+    "name": Object {
+      "first": "dylan",
+      "last": "daniels",
+      "title": "mr",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/men/18.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "BSN",
+      "value": "41816120",
+    },
+    "location": Object {
+      "city": "montferland",
+      "postcode": 17496,
+      "state": "limburg",
+      "street": "7546 maliebaan",
+    },
+    "name": Object {
+      "first": "dide",
+      "last": "zweers",
+      "title": "mrs",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/women/65.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "",
+      "value": null,
+    },
+    "location": Object {
+      "city": "sakarya",
+      "postcode": 37975,
+      "state": "artvin",
+      "street": "8832 kushimoto sk",
+    },
+    "name": Object {
+      "first": "meral",
+      "last": "akar",
+      "title": "miss",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/women/0.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "",
+      "value": null,
+    },
+    "location": Object {
+      "city": "greymouth",
+      "postcode": 14215,
+      "state": "taranaki",
+      "street": "5165 deans avenue",
+    },
+    "name": Object {
+      "first": "cooper",
+      "last": "williams",
+      "title": "mr",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/men/92.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "INSEE",
+      "value": "1NNaN52562366 90",
+    },
+    "location": Object {
+      "city": "montpellier",
+      "postcode": 28609,
+      "state": "gironde",
+      "street": "4094 avenue vauban",
+    },
+    "name": Object {
+      "first": "noah",
+      "last": "meyer",
+      "title": "mr",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/men/37.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg",
+    },
+  },
+  Object {
+    "id": Object {
+      "name": "",
+      "value": null,
+    },
+    "location": Object {
+      "city": "regen",
+      "postcode": 14090,
+      "state": "niedersachsen",
+      "street": "3509 schillerstraße",
+    },
+    "name": Object {
+      "first": "clemens",
+      "last": "herrmann",
+      "title": "mr",
+    },
+    "picture": Object {
+      "large": "https://randomuser.me/api/portraits/men/8.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg",
+    },
+  },
+]
+`;
